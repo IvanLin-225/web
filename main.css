@@ -3,12 +3,16 @@ IntroCS pd07 sec11
 HW05 Stuylin'
 2021-02-09 */
 
+li {
+	color: red;
+}
+
 h1 {
 color: green;
 }
 
 h2 {
-	color: yellow;
+	color: green;
 }
 
 h3 {
@@ -16,11 +20,11 @@ h3 {
 }
 
 p {
-	color: red;
-	font-size: 20px;
-	font-family: poppins;
+	color: orange;
+	font-size: 20px
 }
 
 body {
-	background-color: brown;
+	background-color: lavender;
+	font-family: verdana;
 }
