@@ -21,10 +21,12 @@ h3 {
 
 p {
 	color: orange;
-	font-size: 20px
+	font-size: 20px;
 }
 
 body {
 	background-color: lavender;
 	font-family: verdana;
+	font-style: normal;
+	border: 5px solid blue;
 }
